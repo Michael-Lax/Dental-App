@@ -1,0 +1,74 @@
+
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+body {
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+#addFormRadio{
+  margin-bottom: 8px;
+}
+#warnSign{
+  align-content: center;
+}
+
+#logError{
+  width: 600px;
+}
+
+.btn .active{
+  background-color: red;
+}
+
+.form-add-heading{
+  text-align:center;
+}
+
+.btn-group{
+  margin-top: -10px;
+  padding:10px;
+  left: 7px;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 12px;
+}
+
+.form-signin .checkbox {
+  font-weight: normal;
+}
+
+.form-signin .form-control,
+input {
+  margin-bottom: 8px;
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+}
+
+.alert{
+  text-align: center;
+}
+
+#calendar{
+  padding:30px;
+}
+
+#addBtn{
+  margin-top: 10px;
+}
+.glyphicon{
+  margin-right: 5px;
+}
